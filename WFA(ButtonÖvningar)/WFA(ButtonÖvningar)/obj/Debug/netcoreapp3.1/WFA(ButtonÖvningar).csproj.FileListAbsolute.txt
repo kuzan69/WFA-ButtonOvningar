@@ -1,0 +1,16 @@
+C:\Users\yosef.shiervani\source\repos\WFA(ButtonÖvningar)\WFA(ButtonÖvningar)\bin\Debug\netcoreapp3.1\WFA(ButtonÖvningar).exe
+C:\Users\yosef.shiervani\source\repos\WFA(ButtonÖvningar)\WFA(ButtonÖvningar)\bin\Debug\netcoreapp3.1\WFA(ButtonÖvningar).deps.json
+C:\Users\yosef.shiervani\source\repos\WFA(ButtonÖvningar)\WFA(ButtonÖvningar)\bin\Debug\netcoreapp3.1\WFA(ButtonÖvningar).runtimeconfig.json
+C:\Users\yosef.shiervani\source\repos\WFA(ButtonÖvningar)\WFA(ButtonÖvningar)\bin\Debug\netcoreapp3.1\WFA(ButtonÖvningar).runtimeconfig.dev.json
+C:\Users\yosef.shiervani\source\repos\WFA(ButtonÖvningar)\WFA(ButtonÖvningar)\bin\Debug\netcoreapp3.1\WFA(ButtonÖvningar).dll
+C:\Users\yosef.shiervani\source\repos\WFA(ButtonÖvningar)\WFA(ButtonÖvningar)\bin\Debug\netcoreapp3.1\WFA(ButtonÖvningar).pdb
+C:\Users\yosef.shiervani\source\repos\WFA(ButtonÖvningar)\WFA(ButtonÖvningar)\obj\Debug\netcoreapp3.1\WFA(ButtonÖvningar).csprojAssemblyReference.cache
+C:\Users\yosef.shiervani\source\repos\WFA(ButtonÖvningar)\WFA(ButtonÖvningar)\obj\Debug\netcoreapp3.1\WFA_ButtonÖvningar_.Form1.resources
+C:\Users\yosef.shiervani\source\repos\WFA(ButtonÖvningar)\WFA(ButtonÖvningar)\obj\Debug\netcoreapp3.1\WFA(ButtonÖvningar).csproj.GenerateResource.cache
+C:\Users\yosef.shiervani\source\repos\WFA(ButtonÖvningar)\WFA(ButtonÖvningar)\obj\Debug\netcoreapp3.1\WFA(ButtonÖvningar).AssemblyInfoInputs.cache
+C:\Users\yosef.shiervani\source\repos\WFA(ButtonÖvningar)\WFA(ButtonÖvningar)\obj\Debug\netcoreapp3.1\WFA(ButtonÖvningar).AssemblyInfo.cs
+C:\Users\yosef.shiervani\source\repos\WFA(ButtonÖvningar)\WFA(ButtonÖvningar)\obj\Debug\netcoreapp3.1\WFA(ButtonÖvningar).csproj.CoreCompileInputs.cache
+C:\Users\yosef.shiervani\source\repos\WFA(ButtonÖvningar)\WFA(ButtonÖvningar)\obj\Debug\netcoreapp3.1\WFA(ButtonÖvningar).dll
+C:\Users\yosef.shiervani\source\repos\WFA(ButtonÖvningar)\WFA(ButtonÖvningar)\obj\Debug\netcoreapp3.1\WFA(ButtonÖvningar).pdb
+C:\Users\yosef.shiervani\source\repos\WFA(ButtonÖvningar)\WFA(ButtonÖvningar)\obj\Debug\netcoreapp3.1\WFA(ButtonÖvningar).genruntimeconfig.cache
+C:\Users\yosef.shiervani\source\repos\WFA(ButtonÖvningar)\WFA(ButtonÖvningar)\obj\Debug\netcoreapp3.1\WFA_ButtonÖvningar_.Form2.resources

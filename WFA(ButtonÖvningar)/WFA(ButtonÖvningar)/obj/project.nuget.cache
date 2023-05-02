@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I0IrI13anWgChVzLUuLd/q18iMC1WqyhGrceLZjvSuSKodMoi5zT95WsA4YzD0mImq5wI3+kZiRRhd5+aYsDHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yosef.shiervani\\source\\repos\\WFA(ButtonÖvningar)\\WFA(ButtonÖvningar)\\WFA(ButtonÖvningar).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yosef.shiervani\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
